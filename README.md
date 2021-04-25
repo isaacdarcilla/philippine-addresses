@@ -1,6 +1,6 @@
 <p align="center"><img src="https://pngimage.net/wp-content/uploads/2018/06/philippine-flag-icon-png-5.png" width="200"></p>
 
-## 🇵🇭 Sample Data
+## Philippines Address Data
 
 - [X] Barangay
 
@@ -36,3 +36,5 @@
 "region_code":"01"
 }
 ```
+
+Apache 2.0
